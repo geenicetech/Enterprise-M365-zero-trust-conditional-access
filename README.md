@@ -16,7 +16,7 @@ The goal is to protect user and administrator identities by enforcing strong aut
 Passwords alone are no longer sufficient to protect cloud identities.  
 Common risks include:
 
-- Attackers repeatedly attempt to guess user passwords using common or stolen credentials until access is gained
+- Password spraying and brute-force attempts
 - Administrative account compromise
 - Legacy authentication protocols bypassing MFA
 - Inconsistent access controls across users and roles
